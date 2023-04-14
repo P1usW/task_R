@@ -1,0 +1,14 @@
+@use './constant' as const;
+
+
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 0 auto;
+
+  max-width: const.$max-width;
+}
+
+

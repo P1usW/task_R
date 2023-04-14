@@ -1,0 +1,19 @@
+.item {
+  border: 2px antiquewhite solid;
+  border-radius: 5px;
+
+  background-color: antiquewhite;
+
+  width: 1fr;
+
+  &_title {
+    text-align: center;
+    font-weight: 400;
+    padding: 5px;
+  }
+
+  &_photo {
+    width: 100%;
+    height: 250px;
+  }
+}

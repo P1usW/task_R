@@ -1,0 +1,8 @@
+.search-input {
+  border: 2px antiquewhite solid;
+  border-radius: 5px;
+
+  &:focus {
+    outline: 4px burlywood solid;
+  }
+}
